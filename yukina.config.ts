@@ -2,11 +2,11 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "SakuraMarble",
+  subTitle: "A World of Technique",
+  brandTitle: "SakuraMarble",
 
-  description: "Demo Site",
+  description: "谁终将声震人间，必长久深自缄默",
 
   site: "https://yukina-blog.vercel.app",
 
@@ -27,25 +27,17 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/SakuraMarble",
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
+  username: "SakuraMarble 桜石",
+  sign: "谁终将声震人间，必长久深自缄默",
   avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
-    },
-    {
-      icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
-    },
-    {
-      icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      link: "https://github.com/SakuraMarble",
     },
   ],
 
