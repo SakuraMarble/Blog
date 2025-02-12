@@ -4,7 +4,11 @@ import BaseHead from "../components/BaseHead.astro";
 ---
 
 <html lang={YukinaConfig.locale}>
-  <BaseHead />
+  <head>
+    <!-- 引入 Plausible Analytics 脚本 -->
+    <script defer data-domain="yourdomain.com" src="https://plausible.io/js/script.js"></script>
+    <BaseHead />
+  </head>
   <body class="overflow-y-hidden">
     <slot />
   </body>
