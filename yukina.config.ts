@@ -2,7 +2,7 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "SakuraMarble",
+  title: "Sakura",
   subTitle: "A World of Technique",
   brandTitle: "SakuraMarble",
 
