@@ -33,7 +33,7 @@ const YukinaConfig: Configuration = {
 
   username: "SakuraMarble 桜石",
   sign: "谁终将声震人间，必长久深自缄默",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  avatarUrl: "/avatar.jpg",
   socialLinks: [
     {
       icon: "line-md:github-loop",
